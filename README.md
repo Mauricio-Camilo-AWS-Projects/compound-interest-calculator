@@ -40,7 +40,7 @@ The architecture uses the following AWS services:
 - **Container Orchestration:** Amazon ECS (Fargate)
 - **Container Registry:** Amazon ECR
 - **Database:** PostgreSQL
-- **Backend:** [Backend Technologies]
+- **Backend:** Typescript
 
 ## CI/CD & Infrastructure
 
