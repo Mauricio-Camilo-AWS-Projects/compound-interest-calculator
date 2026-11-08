@@ -28,8 +28,8 @@ The architecture uses the following AWS services:
 
 ## Related Repositories
 
-- **Frontend:** https://github.com/Mauricio-Camilo-AWS-Projects/s3-frontend
-- **Pipelines:** https://github.com/Mauricio-Camilo-AWS-Projects/CI-CD-Workflows
+- **Frontend:** https://github.com/Mauricio-Camilo-AWS-Projects/compound-interest-calculator-frontend
+- **Pipelines:** https://github.com/Mauricio-Camilo-AWS-Projects/compound-interest-calculator-pipelines
 
 ## Tech Stack
 
